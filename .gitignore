@@ -114,3 +114,10 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+# Add Agriline
+.idea/
+manifest/
+venv/
+create venv.cmd
+start.cmd
